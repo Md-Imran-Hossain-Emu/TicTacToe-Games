@@ -111,7 +111,7 @@ Please select a position to place an 'X' (1-9): 8
 Hurray! You Won the match.
 </pre>
 <hr class = "dashed">
-<h2>Sample Case: 2 <br>Play with Friend and Friend win!</h2>
+<h2>Sample Case: 2 <br>Playint with Friend and Friend win the match!</h2>
 <pre>
 Do you want to play again? (Y/N): Y
 -----------------------------------
